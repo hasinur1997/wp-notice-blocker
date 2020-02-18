@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Notice Blocker
+Plugin Name: WP Notice Blocker
 Plugin URI: https://hasinur.me/wp-notice-blocker/
 Description: A WordPress admin notice blocker plugin
 Version: 1.0
